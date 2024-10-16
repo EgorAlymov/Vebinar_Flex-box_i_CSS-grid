@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+nav {
+  background: #f7f7f7;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+nav a {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+  color: #000;
+  margin-left: 15px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.logo {
+  margin-right: auto;
+}
+
